@@ -62,6 +62,6 @@ I build AI systems that make it out of the notebook and into production — chat
 <div align="center">
 
 📫 **Let's talk** — open to AI / software engineering internships and collaborations.
-**[LinkedIn](https://www.linkedin.com/in/farouk-chenni-2841b5339/)** · azer58134@gmail.com
+**[LinkedIn](https://www.linkedin.com/in/farouk-chenni-2841b5339/)** · faroukchenni24@gmail.com
 
 </div>
