@@ -52,8 +52,6 @@ I build AI systems that make it out of the notebook and into production — chat
 
 <div align="center">
 
-![Farouk's GitHub stats](https://github-readme-stats.vercel.app/api?username=faroukchenni&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faroukchenni&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
