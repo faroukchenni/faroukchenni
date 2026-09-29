@@ -6,9 +6,8 @@
 
 I build AI systems that make it out of the notebook and into production — chatbots people actually talk to, models that actually ship.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farouk-chenni-2841b5339/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azer58134@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chenni-farouk-3339122b7/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faroukchenni24@gmail.com)
 </div>
 
 ---
@@ -60,6 +59,6 @@ I build AI systems that make it out of the notebook and into production — chat
 <div align="center">
 
 📫 **Let's talk** — open to AI / software engineering internships and collaborations.
-**[LinkedIn](https://www.linkedin.com/in/farouk-chenni-2841b5339/)** · faroukchenni24@gmail.com
+**[LinkedIn](https://www.linkedin.com/in/chenni-farouk-3339122b7/)** · faroukchenni24@gmail.com
 
 </div>
